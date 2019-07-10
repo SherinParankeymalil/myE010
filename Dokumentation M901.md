@@ -21,6 +21,8 @@
 - [4. Lernprozess / Reflexion](#4-Lernprozess--Reflexion)
   - [4.1 Command Line Basics](#41-Command-Line-Basics)
 
+<br>
+
 ## 1. Einrichtung
 Zwar wurde das GitHub Repo vom Original in meines kopiert, via "Fork" Befehl, habe dennoch eine neue "eigene" Dokumentation erstellt. 
 
