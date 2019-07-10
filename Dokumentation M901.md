@@ -104,7 +104,6 @@ Bei Linux werden sehr häufig Komponenten Dritter integriert. Da Teile dieser Ko
 * Treiber sind Programme, welche für die Interaktion / Kommunikation zwischen Software und Hardware zuständig ist.
 <br>
 <br>
-<br>
 
 ## 3. Fahrplan 
 Der Fahrplan ist wie folgt aufgegliedert: 
