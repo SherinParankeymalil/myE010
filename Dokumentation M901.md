@@ -19,7 +19,7 @@
   - [2.5.3 Hardware](#253-Hardware)
 - [3. Fahrplan](#3-Fahrplan)
 - [4. Lernprozess / Reflexion](#4-Lernprozess--Reflexion)
-  - [4.1 Command Line Basics](#41-Command-Line-Basics)
+  - [4.1 Command Line & Directories](#41-Command-Line--Directories)
 
 <br>
 
