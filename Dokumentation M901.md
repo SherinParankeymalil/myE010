@@ -130,7 +130,7 @@ Durch dieses Modul konnte ich viel Grundlegendes über Linux lernen und mein Mem
 
 
 ### 4.1 Command Line & Directories
-Ein separates Dokument mit den Basic Commands und entsprechenden Beschreibungen wird getestet, festgehalten und verlinkt.  
+Ein separates Dokument mit den Basic Commands und wichtige Verzeichnisse mit entsprechenden Beschreibungen wird getestet, festgehalten und verlinkt.  
 Link: https://github.com/SherinParankeymalil/myE010/blob/master/Wichtige%20CMD.docx
 
 
