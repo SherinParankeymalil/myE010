@@ -129,7 +129,7 @@ Der Fahrplan ist wie folgt aufgegliedert:
 Durch dieses Modul konnte ich viel Grundlegendes über Linux lernen und mein Memory bezüglich der Linux Befehle auffrischen. Vieles über den Aufbau von Linux und den damit zusammenhängenden Lizenzen, wusste ich nicht. Für die Zukunft waren diese und weiter Informationen, welche gesammelt wurden, sicherlich sehr hilfreich. Einen gewissen Umgang mit den Linux Befehlen hatte ich bereits, konnte aber viel Neue hinzufügen und ausprobieren. Das praktische Austesten auf der virtuellen Maschine nebst der Theorie, hat mir am meisten Spass gemacht. 
 
 
-### 4.1 Command Line Basics
+### 4.1 Command Line & Directories
 Ein separates Dokument mit den Basic Commands und entsprechenden Beschreibungen wird getestet, festgehalten und verlinkt.  
 Link: https://github.com/SherinParankeymalil/myE010/blob/master/Wichtige%20CMD.docx
 
